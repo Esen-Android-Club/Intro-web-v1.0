@@ -7,7 +7,7 @@
 - [Resources](#resources)
 - [Exercises](#exercises)
   - [Installing VSCODE](#exercises)
-  - [HTMLIntro (node vs browser)](#exercises)
+  - [HTMLIntro](#exercises)
 
 ## Resources
 * [Slides](https://www.canva.com/design/DAEtAApk0Ds/1wBt2InyE2tvX44ZJN-Y5Q/view?utm_content=DAEtAApk0Ds&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
