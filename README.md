@@ -33,7 +33,7 @@ create new folder with anyName and create new file index.html when you should pu
 ```
 | Tag      | Description |
 | ----------- | ----------- |
-| ``` ``` <!DOCTYPE html>```      | mention that you will work with html       |
+| ``` <!DOCTYPE html> ```      | mention that you will work with html       |
 | ``` <html> ```   | starting of your html code , all code html should be under this tag        |
 | ``` <head> ```   |  info about your page like title in tab and the description in the search of google   |
 | ``` <body> ```   |  all your content  should be under body   |
