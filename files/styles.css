@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(184, 184, 255);
+}
+.navbar1 , .footer{
+    color: rgb(240, 0, 0);
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Cairo', sans-serif;
+    font-style: normal;
+    background-color: black;
+    border: 2px rgb(255, 0, 0) solid;
+}
+
+.navbar1 .title {
+    font-size: 50px;
+}
+
+.my-image{
+    width: 200px;
+    height: 200px;
+    float: left;
+}
