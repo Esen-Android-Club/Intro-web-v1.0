@@ -1,73 +1,67 @@
 # Intro-web-v1.0
 # MOHAMED IHBE HICHRI & ESEN-ANDROID-CLUB
 
-> 20/10/2020 14h:00
+> 17/11/2021 14h:00
 > INTRO TO WEB DEVELOPEMENT -- BASIC HTML
 
-- [Resources](#resources)
+- [What We Learn Today](#What-We-Learn-Today)
 - [Exercises](#exercises)
-  - [Installing VSCODE](#exercises)
-  - [HTMLIntro (node vs browser)](#exercises)
 
-## Resources
-* [Slides](https://www.canva.com/design/DAEtAApk0Ds/1wBt2InyE2tvX44ZJN-Y5Q/view?utm_content=DAEtAApk0Ds&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
-* [Vs code](https://code.visualstudio.com/)
-* [TOP EXTENSION FOR VSCODE](https://codeforgeek.com/best-visual-studio-code-extensions-web-development/)
+## What-We-Learn-Today
 
-## Workshop Details 
-create new folder with anyName and create new file index.html when you should put all your html 
-### Structure html 
-```html
-<!DOCTYPE html>
-<html>
+### Forms ( HTML)
 
+| Tag      | Description |
+| ----------- | ----------- |
+| ``` <form> ```   | starting of your form code , all forms  should be under this tag        |
+| ``` <input type="text"> ```   |  the field when the user should type anything  |
+
+#### More Resources About Forms : 
+* [Document with all types of forms](https://www.w3schools.com/html/html_forms.asp)
+* [Video About Forms](https://www.youtube.com/watch?v=inC9gWjNMJI&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji&index=24)
+
+### Intro Css ( HTML)
+
+| Tag      | Description |
+| ----------- | ----------- |
+| ``` <h1 class="name-class"> ```   | here you should add an class name for every tag that you want to style 
+
+steps for start in css : 
+1- Create new file styles.css 
+2- call it in the file html :
+```html 
   <head>
-    <title> title of your page</title>
+    <link href="styles.css" alt="stylessheet">
   </head>
-
-  <body>
-    // here you should put all your content ( text , images, etc)
-  </body>
-  
-</html>
 ```
-| Tag      | Description |
+3- now you can start add styles in css 
+
+style of code in css : 
+```css
+  .name-of-your-class-in-the-tag-html{
+    color: red ;
+  }
+```
+4- Some elements that we learn it 
+| style      | type |
 | ----------- | ----------- |
-| ``` ``` <!DOCTYPE html>```      | mention that you will work with html       |
-| ``` <html> ```   | starting of your html code , all code html should be under this tag        |
-| ``` <head> ```   |  info about your page like title in tab and the description in the search of google   |
-| ``` <body> ```   |  all your content  should be under body   |
+| ``` color```   | put any color with HEX or RGB etc |
+| ``` font-size, font-family, font-style, font-weight```   | style for the text |
+| ``` background-color```   | color of the background |
+| ``` border```   | cadre for our section |
 
-### TAGS OF TEXT (HTML)
+#### More Resources About CSS : 
+* [Document with all css staff](https://www.w3schools.com/css/default.asp)
+* [playlist About CSS](https://youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
 
-md
-| Tag      | Description |
-| ----------- | ----------- |
-| ``` <h1>,<h2>,<h3>,<h4>,<h5>,<h6> ```  | titles  |
-| ``` <p> ```   | paragraph   |
-| ``` <span> ```   |  simple text |
-| ``` <b>, <strong> ```   | strong text (gras) |
-| ``` <i> ```   | italic text |
-| ``` <br> ```   | space between an ligne and another |
+### Semntic HTML
 
-* [for more advanced tags in text (html)](https://www.w3schools.com/html/html_formatting.asp)
+we learn about how structure your html code and how anybody can understand 
 
-### Videos that can help you :
-
-* [DOCTYPE](https://youtu.be/sBFemL2Mfj4)
-* [Titles](https://youtu.be/XxkX8wnRq3s)
-* [paragraph](https://youtu.be/Fpibp-291xQ)
-* [playlist of all html](https://youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
+* [For many informations](https://www.youtube.com/watch?v=xlQwlfvrDuI&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji&index=19)
 
 ## EXERCISES 
 
->>> install VSCODE FOR YOUR MACHINE
----------------------
+>>> build an page web with your name and image and description and a link and don't forget to style it in css with what we learn 
 
-exercice ⬇
->> i need you to intoduce yourself with your name as title and an simple paragraph with address and age
-
->>. I need your age as bold word
-
-### SOLUTION 
-you can find the solution in the dossier session 1 in top 
+>> send me your work in my email before saturday mediheb.codes@gmail.com
