@@ -7,7 +7,6 @@
 - [What We Learn Today](#What-We-Learn-Today)
 - [Exercises](#exercises)
 
-
 ## What-We-Learn-Today
 
 ### Forms ( HTML)
